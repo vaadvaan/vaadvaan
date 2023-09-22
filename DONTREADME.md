@@ -2,6 +2,7 @@
 - 👀 I’m interested in writing irritating codes.
 - 🌱 I’m currently learning how to survive :3
 - 📫 How to reach me? DONT
+  
  "In the realm of code, insatiable inquisitiveness serves as your unerring guide, artistic ingenuity your boundless medium, and synergistic cooperation your celestial luminary." -idk who wrote.
 
 <!---
